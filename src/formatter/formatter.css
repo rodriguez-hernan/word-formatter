@@ -1,0 +1,11 @@
+
+.modal {
+  display: inline-block;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  background-color: #fafafa;
+  border: 2px solid #000;
+  padding: 20px;
+}
+
